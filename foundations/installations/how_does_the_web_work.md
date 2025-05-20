@@ -1,4 +1,5 @@
 ### Introduction
+Good to hear
 
 Before you can understand how to program the web, you need a more rigorous understanding of the web itself than you likely have now. These concepts provide a more holistic understanding of the ecosystem in which you will be working and will enable you to talk intelligently with other developers about your work.
 
